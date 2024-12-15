@@ -1,0 +1,39 @@
+.header{
+    color:rgb(136, 9, 9);
+    background-color: rgb(180, 93, 93)
+
+}
+
+.sidebar{
+    color:rgb(144, 210, 144);
+    background-color:rgb(42, 71, 42)
+
+}
+
+.content{
+    color:rgb(144, 210, 144);
+    background-color:rgb(42, 71, 42)
+
+
+}
+
+
+.wrapper{
+    display:flex;
+    /* justify-content:center */
+
+
+}
+
+.footer{
+    color:aquamarine;
+    background-color:rgb(110, 158, 158)
+
+
+
+}
+
+img{
+    width: 60px;
+    height:60px
+}
